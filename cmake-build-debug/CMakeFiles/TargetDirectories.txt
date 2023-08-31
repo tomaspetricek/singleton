@@ -1,0 +1,3 @@
+/Users/tomaspetricek/Programming/Languages/Cpp/projects/singleton/cmake-build-debug/CMakeFiles/singleton.dir
+/Users/tomaspetricek/Programming/Languages/Cpp/projects/singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tomaspetricek/Programming/Languages/Cpp/projects/singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
