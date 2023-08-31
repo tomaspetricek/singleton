@@ -1,5 +1,4 @@
 #include <iostream>
-#include <memory>
 
 class singleton {
     int a_{0};
@@ -7,7 +6,7 @@ class singleton {
 
 public:
     singleton& operator=(const singleton&) = delete;
-    singleton(singleton const&) = delete;
+    singleton(const singleton&) = delete;
 
     static singleton& instance()
     {
